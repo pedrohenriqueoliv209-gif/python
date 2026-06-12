@@ -28,3 +28,15 @@ if nota =="MB" :
  print("aprovado")
 else:
  print("reprovado")
+
+
+
+ #exemplo 5 
+ a = 2
+ b = 10
+ while a < b:
+   print(a)
+   a = a + 1
+print("fim.")
+
+#exemplo 6
